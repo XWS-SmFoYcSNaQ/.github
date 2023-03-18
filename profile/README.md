@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-:file_folder: Skyriders repository - Flight booking application
+:file_folder: skyriders repository - Flight booking application
