@@ -1,1 +1,1 @@
-# .github
+Flight booking application - skyriders repository
